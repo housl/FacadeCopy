@@ -12,20 +12,24 @@
 	<dict>
 		<key>AD65A7BEFF7E28E90E8A16DC4FC88F0082FD914A</key>
 		<string>https://github.com/mamaral/Facade.git</string>
+		<key>C0FC7C838F16420CAFC8695D37B26C374FEB3220</key>
+		<string>https://github.com/housl/FacadeCopy.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Facade.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>AD65A7BEFF7E28E90E8A16DC4FC88F0082FD914A</key>
+		<string>../../../Facade</string>
+		<key>C0FC7C838F16420CAFC8695D37B26C374FEB3220</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/mamaral/Facade.git</string>
+	<string>https://github.com/housl/FacadeCopy.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AD65A7BEFF7E28E90E8A16DC4FC88F0082FD914A</string>
+	<string>C0FC7C838F16420CAFC8695D37B26C374FEB3220</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>AD65A7BEFF7E28E90E8A16DC4FC88F0082FD914A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Facade</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0FC7C838F16420CAFC8695D37B26C374FEB3220</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FacadeCopy</string>
 		</dict>
 	</array>
 </dict>
